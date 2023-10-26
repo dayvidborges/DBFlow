@@ -10,8 +10,6 @@ import sys
 import uuid
 from datetime import datetime 
 
-LOGS = '/home/dayvid/Documentos/Projects/dayvid_project/testes/teste_001/src/logs'
-
 # --PYPELINE
 class PyPelineTaskManager():
     """
