@@ -49,7 +49,6 @@ from dbflow import PyPelineWatcher
 from dbflow import *
 ```
 
-após clone o repositorio
 ## Configuração e Uso
 A configuração do seu ambiente com o PyPelineWatcher é um processo simples, delineado nos seguintes passos:
 
