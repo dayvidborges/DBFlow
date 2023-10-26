@@ -44,14 +44,13 @@ caso seu projeto utilize diversos diretórios será necessario apendar a pasta d
 ```python
 import sys
 sys.path.append('caminho/para/a/pasta/do/repositorio/')
-from dbflow import PypelineWatcher
+from dbflow import PyPelineWatcher
 # Ou
 from dbflow import *
 ```
 
-após clone o repositorio
 ## Configuração e Uso
-A configuração do seu ambiente com o PyPeline Automator é um processo simples, delineado nos seguintes passos:
+A configuração do seu ambiente com o PyPelineWatcher é um processo simples, delineado nos seguintes passos:
 
 1. **Definição do Pipeline**: Configure seu pipeline de tarefas específicas, incluindo caminhos de script, identificadores de grupo para tarefas paralelas e caminhos para logs.
 
